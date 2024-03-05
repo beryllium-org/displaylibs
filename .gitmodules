@@ -1,3 +1,30 @@
 [submodule "submodules/jz"]
 	path = submodules/jz
 	url = https://github.com/beryllium-org/jz
+[submodule "submodules/Adafruit_CircuitPython_Display_Text"]
+	path = submodules/Adafruit_CircuitPython_Display_Text
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Display_Text
+[submodule "submodules/Adafruit_CircuitPython_BitmapSaver"]
+	path = submodules/Adafruit_CircuitPython_BitmapSaver
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BitmapSaver
+[submodule "submodules/Adafruit_CircuitPython_Display_Button"]
+	path = submodules/Adafruit_CircuitPython_Display_Button
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Display_Button
+[submodule "submodules/Adafruit_CircuitPython_ProgressBar"]
+	path = submodules/Adafruit_CircuitPython_ProgressBar
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ProgressBar
+[submodule "submodules/Adafruit_CircuitPython_Display_Notification"]
+	path = submodules/Adafruit_CircuitPython_Display_Notification
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Display_Notification
+[submodule "submodules/Adafruit_CircuitPython_DisplayIO_Layout"]
+	path = submodules/Adafruit_CircuitPython_DisplayIO_Layout
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_Layout
+[submodule "submodules/Adafruit_CircuitPython_Display_Shapes"]
+	path = submodules/Adafruit_CircuitPython_Display_Shapes
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Display_Shapes
+[submodule "submodules/Adafruit_CircuitPython_Bitmap_Font"]
+	path = submodules/Adafruit_CircuitPython_Bitmap_Font
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Bitmap_Font
+[submodule "submodules/Adafruit_CircuitPython_ImageLoad"]
+	path = submodules/Adafruit_CircuitPython_ImageLoad
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ImageLoad
